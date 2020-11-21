@@ -1,6 +1,3 @@
-# Name: Ruoling Yu
-# Student Number: 500976267
-# 1
 def switchHalf(arr):
     length = len(arr)
     halfPos = length // 2
