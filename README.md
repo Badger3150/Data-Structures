@@ -15,4 +15,6 @@ Lab6 BST_TREES
 
 Lab7 AVL-B_Trees
 
- 
+Lab8 Hash Tables
+
+Lab9 Minimal Spanning Trees
